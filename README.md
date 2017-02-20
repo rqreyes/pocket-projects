@@ -1,3 +1,3 @@
 # Pocket Projects
 
-This is my online portfolio to showcase language-focused projects.
+This is my online portfolio to showcase language-specific projects.
